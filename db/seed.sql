@@ -9,7 +9,7 @@ INSERT INTO teams (tname, wins, losses) VALUES
 ),
 (
     'Red Sox',
-    78,
+    100,
     34
 ),
 (
